@@ -1,6 +1,6 @@
-print("=" * 40)
+print("=" * 50)
 print(f'{"BANCO CEV":^40}')
-print("=" * 40)
+print("=" * 50)
 
 valor = int(input("Qual valor você deseja sacar? R$"))
 
