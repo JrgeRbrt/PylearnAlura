@@ -4,7 +4,7 @@ print(a[1])
 
 
 #loop for x string
-for x in "banana":
+for x in "pear":
     print(x)
 
 #for lenght of a string
