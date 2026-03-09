@@ -1,0 +1,11 @@
+def sum (a, b):
+    return a + b
+try:
+    n1 = int(input("Digite o primeiro numero da soma: "))
+    n2 = int(input("Digite o segundo numero da soma: "))
+    
+    resultado = sum(n1, n2)
+    print(f"A soma dos números é: {resultado}")
+    
+except ValueError:
+    print("ERRO: Você digitou um valor invalido, tente novamente")
